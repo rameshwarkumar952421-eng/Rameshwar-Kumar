@@ -7,4 +7,9 @@ _FAST UNIVERSITY_
 - driving car
 - communication skills
 - gaming skills
-## projects
+## Hobbies & Extracurriculars
+1. gaming
+    - [x] cricket
+    - [ ] hockey
+3. watching webseries
+4. driving car
